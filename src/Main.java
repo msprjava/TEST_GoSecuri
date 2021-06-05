@@ -8,31 +8,31 @@ public class Main {
         HomePage homePageGoSecuri = new HomePage();
         homePageGoSecuri.accueil();
 
-        String chemin = "/var/www/html/Fiches/cberthier.txt";
+        String chemin = "/var/lib/jenkins/workspace/TEST1/TEST_GoSecuri/Fiches/cberthier.txt";
 
 
         FicheAgent ficheAgent = new FicheAgent();
         ficheAgent.FicheAgent(chemin);
 
-        chemin = "/var/www/html/Fiches/jmacclane.txt";
+        chemin = "/var/lib/jenkins/workspace/TEST1/TEST_GoSecuri/Fiches/jmacclane.txt";
         ficheAgent.FicheAgent(chemin);
 
-        chemin = "/var/www/html/Fiches/afoley.txt";
+        chemin = "/var/lib/jenkins/workspace/TEST1/TEST_GoSecuri/Fiches/afoley.txt";
         ficheAgent.FicheAgent(chemin);
 
-        chemin = "/var/www/html/Fiches/jrouletabille.txt";
+        chemin = "/var/lib/jenkins/workspace/TEST1/TEST_GoSecuri/Fiches/jrouletabille.txt";
         ficheAgent.FicheAgent(chemin);
 
-        chemin = "/var/www/html/Fiches/jwest.txt";
+        chemin = "/var/lib/jenkins/workspace/TEST1/TEST_GoSecuri/Fiches/jwest.txt";
         ficheAgent.FicheAgent(chemin);
 
-        chemin = "/var/www/html/Fiches/mriggs.txt";
+        chemin = "/var/lib/jenkins/workspace/TEST1/TEST_GoSecuri/Fiches/mriggs.txt";
         ficheAgent.FicheAgent(chemin);
 
-        chemin = "/var/www/html/Fiches/sconnor.txt";
+        chemin = "/var/lib/jenkins/workspace/TEST1/TEST_GoSecuri/Fiches/sconnor.txt";
         ficheAgent.FicheAgent(chemin);
 
-        chemin = "/var/www/html/Fiches/sholmes.txt";
+        chemin = "/var/lib/jenkins/workspace/TEST1/TEST_GoSecuri/Fiches/sholmes.txt";
         ficheAgent.FicheAgent(chemin);
 
 
