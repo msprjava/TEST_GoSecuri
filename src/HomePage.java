@@ -25,7 +25,7 @@ public class HomePage {
                 "</p><footer><p>Copyright GoSecuri - Tous droits réservés<br></p></footer>" +
                 "</body></html>";
 
-        File accueil = new File("D:\\TEST\\homepage.html");
+        File accueil = new File("/var/www/html/homepage.html");
 
         try {
             BufferedWriter bw = new BufferedWriter(new FileWriter(accueil));
