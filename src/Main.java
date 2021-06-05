@@ -8,31 +8,31 @@ public class Main {
         HomePage homePageGoSecuri = new HomePage();
         homePageGoSecuri.accueil();
 
-        String chemin = "D:\\TEST\\Fiches\\cberthier.txt";
+        String chemin = "/var/www/html/Fiches/cberthier.txt";
 
 
         FicheAgent ficheAgent = new FicheAgent();
         ficheAgent.FicheAgent(chemin);
 
-        chemin = "D:\\TEST\\Fiches\\jmacclane.txt";
+        chemin = "/var/www/html/Fiches/jmacclane.txt";
         ficheAgent.FicheAgent(chemin);
 
-        chemin = "D:\\TEST\\Fiches\\afoley.txt";
+        chemin = "/var/www/html/Fiches/afoley.txt";
         ficheAgent.FicheAgent(chemin);
 
-        chemin = "D:\\TEST\\Fiches\\jrouletabille.txt";
+        chemin = "/var/www/html/Fiches/jrouletabille.txt";
         ficheAgent.FicheAgent(chemin);
 
-        chemin = "D:\\TEST\\Fiches\\jwest.txt";
+        chemin = "/var/www/html/Fiches/jwest.txt";
         ficheAgent.FicheAgent(chemin);
 
-        chemin = "D:\\TEST\\Fiches\\mriggs.txt";
+        chemin = "/var/www/html/Fiches/mriggs.txt";
         ficheAgent.FicheAgent(chemin);
 
-        chemin = "D:\\TEST\\Fiches\\sconnor.txt";
+        chemin = "/var/www/html/Fiches/sconnor.txt";
         ficheAgent.FicheAgent(chemin);
 
-        chemin = "D:\\TEST\\Fiches\\sholmes.txt";
+        chemin = "/var/www/html/Fiches/sholmes.txt";
         ficheAgent.FicheAgent(chemin);
 
 
