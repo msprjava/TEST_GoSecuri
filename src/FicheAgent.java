@@ -58,7 +58,7 @@ public class FicheAgent {
         System.setOut(fileOut);
 
         System.out.println("<!DOCTYPE html><html><head><meta charset=\"utf-8\">" +
-                "<link rel=\"stylesheet\" href=\"/var/lib/jenkins/workspace/TEST1/TEST/TEST_GoSecuri/style.css\"/><title>Fiche - " + ligne1 + ligne2 + "</title></head>" +
+                "<link rel=\"stylesheet\" href=\"style.css\"/><title>Fiche - " + ligne1 + ligne2 + "</title></head>" +
                 "<header><h1><a href=\"/var/www/html/homepage.html\">GoSecuri</a></h1>" +
                 "<span class=\"logo\"><img src=\"/var/lib/jenkins/workspace/TEST1/TEST_GoSecuri/Fiches/logo.jpg\"></span></header>" +
                 "<body><h1>" + ligne2 + " " + ligne1 + "</h1><br>" +
