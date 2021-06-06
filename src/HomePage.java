@@ -9,8 +9,8 @@ public class HomePage {
 
         String homePage = "<!DOCTYPE html><html><head><meta charset=\"utf-8\">" +
                 "<link rel=\"stylesheet\" href=\"style.css\"/>" +
-                "<title>GoSecuri</title></head>" +
-                "<body><header><h1><a href=\"homepage.html\">GoSecuri - Accueil</a></h1><span class=\"logo\"><a href=\"homepage.html\"><img src=\"logo.jpg\"></a></span></header></body>" +
+                "<title>Go Securi</title></head>" +
+                "<body><header><h1><a href=\"homepage.html\">Go Securi - Accueil</a></h1><span class=\"logo\"><a href=\"homepage.html\"><img src=\"logo.jpg\"></a></span></header></body>" +
                 "<br><br>" +
                 "<br><br><h2> Fiche agents</h2><br>" +
 
@@ -22,7 +22,7 @@ public class HomePage {
                 "<li><a href=\"JohnWest.html\">John West</a></li><br>" +
                 "<li><a href=\"SherlockHolmes.html\">Sherlock Holmes</a></li><br>" +
                 "<li><a href=\"JeanRouletabille.html\">Jean Rouletabille</a></li></ul></div><br><br><br><br><br><br>" +
-                "</p><footer><p>Copyright GoSecuri - Tous droits réservés<br></p></footer>" +
+                "</p><footer><p>Copyright Go Securi - Tous droits réservés<br></p></footer>" +
                 "</body></html>";
 
         File accueil = new File("/var/www/html/homepage.html");
