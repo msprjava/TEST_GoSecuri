@@ -63,7 +63,7 @@ public class FicheAgent {
                 "<span class=\"logo\"><img src=\"/var/lib/jenkins/workspace/TEST3/TEST_GoSecuri/Fiches/logo.jpg\"></span></header>" +
                 "<body><h1>" + ligne2 + " " + ligne1 + "</h1><br>" +
                 "<p> <br>" +
-                "<div class=\"photo\"><img src=\"/var/lib/jenkins/workspace/TEST3/TEST_GoSecuri/Fiches/cberthier.jpg\"></div>" +
+                "<div class=\"photo\"><img src=\"cberthier.jpg\"></div>" +
                 "<div class=\"checked\"><input type=\"checkbox\"  checked>" + ligne5 +
                 "<br><input type=\"checkbox\" checked>" + ligne6 +
                 "<br><input type=\"checkbox\" checked>" + ligne7 +
