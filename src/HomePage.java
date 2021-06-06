@@ -12,7 +12,7 @@ public class HomePage {
                 "<header><h1>GoSecuri</h1></header>" +
                 "<title>Home page - GoSecuri</title></head>" +
                 "<body><h1>Accueil</h1></body><br><br><br>" +
-                "<h2>Liste des agents</h2><br><br>" +
+                "<h2>Fiche agents</h2><br><br>" +
 
                 "<ul><li><a href=\"CorinneBerthier.html\">Corinne Berthier</a></li>" +
                 "<li><a href=\"SamConnor.html\">Sam Connor</a></li>" +
