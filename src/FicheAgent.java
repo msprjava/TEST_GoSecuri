@@ -60,7 +60,7 @@ public class FicheAgent {
         System.out.println("<!DOCTYPE html><html><head><meta charset=\"utf-8\">" +
                 "<link rel=\"stylesheet\" href=\"style.css\"/><title>Fiche - " + ligne1 + ligne2 + "</title></head>" +
                 "<header><h1><a href=\"homepage.html\">GoSecuri</a></h1>" +
-                "<span class=\"logo\"><img src=\"logo.jpg\"></span></header>" +
+                "<div class=\"logo\"><img src=\"logo.jpg\"></div></header>" +
                 "<body><h1>" + ligne2 + " " + ligne1 + "</h1><br>" +
                 "<p> <br>" +
                 "<div class=\"photo\"><img src=\"cberthier.jpg\"></div>" +
