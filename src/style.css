@@ -39,7 +39,6 @@ footer {
 }
 
 .logo {
-  width: 20px;
-  top: 0x;
-  right: 0px;
+  max-width: 100px;
+  max-height: 100px;
 }
