@@ -39,8 +39,7 @@ footer {
 }
 
 .logo {
-  max-width: 50px;
-  max-heiht: 50px;
+  width: 20px;
   position: fixed;
   top: 0px;
 }
