@@ -59,11 +59,11 @@ public class FicheAgent {
 
         System.out.println("<!DOCTYPE html><html><head><meta charset=\"utf-8\">" +
                 "<link rel=\"stylesheet\" href=\"style.css\"/><title>Fiche - " + ligne1 + ligne2 + "</title></head>" +
-                "<header><h1><a href=\"homepage.html\">GoSecuri</a></h1>" +
-                "<span class=\"logo\"><img src=\"/var/lib/jenkins/workspace/TEST1/TEST_GoSecuri/Fiches/logo.jpg\"></span></header>" +
+                "<header><h1><a href=\"/var/www/html/homepage.html\">GoSecuri</a></h1>" +
+                "<span class=\"logo\"><img src=\"/var/lib/jenkins/workspace/TEST3/TEST_GoSecuri/Fiches/logo.jpg\"></span></header>" +
                 "<body><h1>" + ligne2 + " " + ligne1 + "</h1><br>" +
                 "<p> <br>" +
-                "<div class=\"photo\"><img src=\"/var/lib/jenkins/workspace/TEST1/TEST_GoSecuri/Fiches/cberthier.jpg\"></div>" +
+                "<div class=\"photo\"><img src=\"/var/lib/jenkins/workspace/TEST3/TEST_GoSecuri/Fiches/cberthier.jpg\"></div>" +
                 "<div class=\"checked\"><input type=\"checkbox\"  checked>" + ligne5 +
                 "<br><input type=\"checkbox\" checked>" + ligne6 +
                 "<br><input type=\"checkbox\" checked>" + ligne7 +
