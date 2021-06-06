@@ -20,6 +20,7 @@ h2 {
 
 html {
     font-family: 'Roboto', sans-serif;
+    text-align: center;
 }
 
 header {
@@ -41,6 +42,3 @@ footer {
   right: 0px;
 }
 
-ul {
-    text-align: center;
-}
