@@ -3,6 +3,13 @@ h1 {
     text-align: center;
 }
 
+.inner-header {
+    width: 1000px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+    background-color: red;
+
 h2 {
     text-align: center;
 }
