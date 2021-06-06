@@ -3,13 +3,13 @@ h1 {
     text-align: center;
 }
 
-a:link {
+a:link, a:visited {
     text-decoration: none;
+    color: white;
 }
 
 h2 {
     text-align: center;
-    color: white;
 }
 
 
