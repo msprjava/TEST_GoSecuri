@@ -9,9 +9,9 @@ public class HomePage {
 
         String homePage = "<!DOCTYPE html><html><head><meta charset=\"utf-8\">" +
                 "<link rel=\"stylesheet\" href=\"style.css\"/>" +
-                "<header><h1>GoSecuri</h1></header>" +
                 "<title>Home page - GoSecuri</title></head>" +
                 "<body><h1>Accueil</h1></body><br><br><br>" +
+                "<header><h1>GoSecuri</h1></header>" +
                 "<h2>Fiche agents</h2><br><br><br><br>" +
 
                 "<ul><li><a href=\"CorinneBerthier.html\">Corinne Berthier</a></li><br>" +
