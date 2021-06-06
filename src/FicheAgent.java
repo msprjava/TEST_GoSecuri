@@ -64,6 +64,7 @@ public class FicheAgent {
                 "<body><h1>" + ligne2 + " " + ligne1 + "</h1><br>" +
                 "<p>" +
                 "<div class=\"photo\"><img src=\"cberthier.jpg\"></div><br><br>" +
+                "<h3>Matériel utilisé</h3><br>" +
                 "<div class=\"checked\"><input type=\"checkbox\"  checked>" + ligne5 +
                 "<br><input type=\"checkbox\" checked>" + ligne6 +
                 "<br><input type=\"checkbox\" checked>" + ligne7 +
