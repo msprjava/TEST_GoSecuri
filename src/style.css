@@ -23,6 +23,9 @@ html {
 }
 
 header {
+  width: 100%;
+  height: 80px;
+  display: block;
   overflow: hidden;
   background-color: #379EC1;
   padding: 20px 10px;
