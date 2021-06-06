@@ -14,13 +14,13 @@ public class HomePage {
                 "<body><h1>Accueil</h1></body><br><br><br>" +
                 "<h2>Fiche agents</h2><br><br>" +
 
-                "<ul><li><a href=\"CorinneBerthier.html\">Corinne Berthier</a></li>" +
-                "<li><a href=\"SamConnor.html\">Sam Connor</a></li>" +
-                "<li><a href=\"JaneMacClane.html\">Jane MacClane</a></li>" +
-                "<li><a href=\"AnthonyFoley.html\">Anthony Foley</a></li>" +
-                "<li><a href=\"MaryRiggs.html\">Mary Riggs</a></li>" +
-                "<li><a href=\"JohnWest.html\">John West</a></li>" +
-                "<li><a href=\"SherlockHolmes.html\">Sherlock Holmes</a></li>" +
+                "<ul><li><a href=\"CorinneBerthier.html\">Corinne Berthier</a></li><br>" +
+                "<li><a href=\"SamConnor.html\">Sam Connor</a></li><br>" +
+                "<li><a href=\"JaneMacClane.html\">Jane MacClane</a></li><br>" +
+                "<li><a href=\"AnthonyFoley.html\">Anthony Foley</a></li><br>" +
+                "<li><a href=\"MaryRiggs.html\">Mary Riggs</a></li><br>" +
+                "<li><a href=\"JohnWest.html\">John West</a></li><br>" +
+                "<li><a href=\"SherlockHolmes.html\">Sherlock Holmes</a></li><br>" +
                 "<li><a href=\"JeanRouletabille.html\">Jean Rouletabille</a></li></ul><br><br><br><br><br><br>" +
                 "</p><footer><p>Copyright GoSecuri - Tous droits réservés<br></p></footer>" +
                 "</body></html>";
