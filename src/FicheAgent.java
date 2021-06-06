@@ -62,7 +62,7 @@ public class FicheAgent {
                 "<header><h1><a href=\"homepage.html\">GoSecuri</a></h1>" +
                 "<div class=\"logo\"><a href=\"homepage.html\"><img src=\"logo.jpg\"></a></div></header>" +
                 "<body><h1>" + ligne2 + " " + ligne1 + "</h1><br>" +
-                "<p> <br>" +
+                "<p>" +
                 "<div class=\"photo\"><img src=\"cberthier.jpg\"></div>" +
                 "<div class=\"checked\"><input type=\"checkbox\"  checked>" + ligne5 +
                 "<br><input type=\"checkbox\" checked>" + ligne6 +
