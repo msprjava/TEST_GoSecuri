@@ -10,7 +10,7 @@ public class HomePage {
         String homePage = "<!DOCTYPE html><html><head><meta charset=\"utf-8\">" +
                 "<link rel=\"stylesheet\" href=\"style.css\"/>" +
                 "<title>GoSecuri</title></head>" +
-                "<body><header><h1><a href=\"homepage.html\">Accueil</a></h1><span class=\"logo\"><a href=\"homepage.html\"><img src=\"logo.jpg\"></a></span></header></body>" +
+                "<body><header><h1 class=\"Accueil\"><a href=\"homepage.html\">Accueil</a></h1><span class=\"logo\"><a href=\"homepage.html\"><img src=\"logo.jpg\"></a></span></header></body>" +
                 "<br><br><br>" +
                 "<h2>Fiche agents</h2><br><br><br><br>" +
 
