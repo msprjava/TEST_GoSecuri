@@ -41,5 +41,6 @@ footer {
 .logo {
   max-width: 100px;
   max-heiht: 100px;
+  position: absolute;
   top: 0px;
 }
