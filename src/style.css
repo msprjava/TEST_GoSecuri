@@ -50,5 +50,8 @@ footer {
 
 ul {
   list-style: none;
-    text-align: center;
+}
+
+li {
+  text-align: center;
 }
