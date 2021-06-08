@@ -3,9 +3,13 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
+// Création de la classe HomePage
+
 public class HomePage {
 
     public void accueil() {
+        
+        // Contenu HTML du fichier homepage.html
 
         String homePage = "<!DOCTYPE html><html><head><meta charset=\"utf-8\">" +
                 "<link rel=\"stylesheet\" href=\"style.css\"/>" +
@@ -24,6 +28,8 @@ public class HomePage {
                 "<li><a href=\"JohnWest.html\">John West</a></li></ul></div><br><br><br><br><br><br>" +
                 "</p><footer><p>Copyright Go Securi - Tous droits réservés<br></p></footer>" +
                 "</body></html>";
+        
+        // Création du fichier homepage.html
 
         File accueil = new File("/var/www/html/homepage.html");
 
