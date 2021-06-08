@@ -2,6 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 import java.io.*;
 
+// Création des fiches agents
 
 public class FicheAgent {
 
@@ -53,9 +54,13 @@ public class FicheAgent {
             }
             i++;
         }
+        
+        // Utilisation de la classe PrintStream afin d'écrire du contenu HTML dans des fichiers
 
         PrintStream fileOut = new PrintStream(ligne2 + ligne1 + ".html");
         System.setOut(fileOut);
+        
+        // Contenu HTML des fiches agents
 
         System.out.println("<!DOCTYPE html><html><head><meta charset=\"utf-8\">" +
                 "<link rel=\"stylesheet\" href=\"style.css\"/><title>Fiche - " + ligne1 + ligne2 + "</title></head>" +
