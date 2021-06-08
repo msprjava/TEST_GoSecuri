@@ -17,7 +17,7 @@ public class HomePage {
                 "<body><header><h1><a href=\"homepage.html\">Go Securi - Accueil</a></h1><span class=\"logo\"><a href=\"homepage.html\">" +
                 "<img src=\"logo.jpg\"></a></span></header></body>" +
                 "<br><br>" +
-                "<br><br><h2> Fiche agents</h2><br>" +
+                "<br><br><h2> Fiches agents</h2><br>" +
 
                 "<div><ul><li><a href=\"CorinneBerthier.html\">Corinne Berthier</a></li><br>" +
                 "<li><a href=\"SamConnor.html\">Sam Connor</a></li><br>" +
