@@ -64,7 +64,7 @@ public class FicheAgent {
 
         System.out.println("<!DOCTYPE html><html><head><meta charset=\"utf-8\">" +
                 "<link rel=\"stylesheet\" href=\"style.css\"/><title>Fiche - " + ligne1 + ligne2 + "</title></head>" +
-                "<header><h1><a href=\"homepage.html\">Go Securi</a></h1>" +
+                "<header><h1><a href=\"homepage.html\">MSPR JAVA</a></h1>" +
                 "<div class=\"logo\"><a href=\"homepage.html\"><img src=\"logo.jpg\"></a></div></header>" +
                 "<body><h1>" + ligne2 + " " + ligne1 + "</h1><br>" +
                 "<p>" +
